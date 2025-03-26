@@ -1,0 +1,37 @@
+[0.289s] Invoking command in '/home/havish/Task-Inductees/task_ws/Task-Inductees/task_ws/src/turtlesim_draw': PYTHONPATH=/home/havish/Task-Inductees/build/turtlesim_draw/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/havish/Task-Inductees/install/turtlesim_draw/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../../build/turtlesim_draw build --build-base /home/havish/Task-Inductees/build/turtlesim_draw/build install --record /home/havish/Task-Inductees/build/turtlesim_draw/install.log --single-version-externally-managed install_data
+[0.398s] running egg_info
+[0.398s] creating ../../../../../build/turtlesim_draw/turtlesim_draw.egg-info
+[0.399s] writing ../../../../../build/turtlesim_draw/turtlesim_draw.egg-info/PKG-INFO
+[0.399s] writing dependency_links to ../../../../../build/turtlesim_draw/turtlesim_draw.egg-info/dependency_links.txt
+[0.399s] writing entry points to ../../../../../build/turtlesim_draw/turtlesim_draw.egg-info/entry_points.txt
+[0.399s] writing requirements to ../../../../../build/turtlesim_draw/turtlesim_draw.egg-info/requires.txt
+[0.399s] writing top-level names to ../../../../../build/turtlesim_draw/turtlesim_draw.egg-info/top_level.txt
+[0.399s] writing manifest file '../../../../../build/turtlesim_draw/turtlesim_draw.egg-info/SOURCES.txt'
+[0.400s] reading manifest file '../../../../../build/turtlesim_draw/turtlesim_draw.egg-info/SOURCES.txt'
+[0.400s] writing manifest file '../../../../../build/turtlesim_draw/turtlesim_draw.egg-info/SOURCES.txt'
+[0.400s] running build
+[0.400s] running build_py
+[0.400s] creating /home/havish/Task-Inductees/build/turtlesim_draw/build
+[0.400s] creating /home/havish/Task-Inductees/build/turtlesim_draw/build/lib
+[0.401s] creating /home/havish/Task-Inductees/build/turtlesim_draw/build/lib/turtlesim_draw
+[0.401s] copying turtlesim_draw/__init__.py -> /home/havish/Task-Inductees/build/turtlesim_draw/build/lib/turtlesim_draw
+[0.401s] copying turtlesim_draw/code.py -> /home/havish/Task-Inductees/build/turtlesim_draw/build/lib/turtlesim_draw
+[0.401s] running install
+[0.401s] running install_lib
+[0.402s] creating /home/havish/Task-Inductees/install/turtlesim_draw/lib/python3.10/site-packages/turtlesim_draw
+[0.402s] copying /home/havish/Task-Inductees/build/turtlesim_draw/build/lib/turtlesim_draw/__init__.py -> /home/havish/Task-Inductees/install/turtlesim_draw/lib/python3.10/site-packages/turtlesim_draw
+[0.402s] copying /home/havish/Task-Inductees/build/turtlesim_draw/build/lib/turtlesim_draw/code.py -> /home/havish/Task-Inductees/install/turtlesim_draw/lib/python3.10/site-packages/turtlesim_draw
+[0.402s] byte-compiling /home/havish/Task-Inductees/install/turtlesim_draw/lib/python3.10/site-packages/turtlesim_draw/__init__.py to __init__.cpython-310.pyc
+[0.402s] byte-compiling /home/havish/Task-Inductees/install/turtlesim_draw/lib/python3.10/site-packages/turtlesim_draw/code.py to code.cpython-310.pyc
+[0.402s] running install_data
+[0.403s] creating /home/havish/Task-Inductees/install/turtlesim_draw/share/ament_index
+[0.403s] creating /home/havish/Task-Inductees/install/turtlesim_draw/share/ament_index/resource_index
+[0.403s] creating /home/havish/Task-Inductees/install/turtlesim_draw/share/ament_index/resource_index/packages
+[0.403s] copying resource/turtlesim_draw -> /home/havish/Task-Inductees/install/turtlesim_draw/share/ament_index/resource_index/packages
+[0.403s] copying package.xml -> /home/havish/Task-Inductees/install/turtlesim_draw/share/turtlesim_draw
+[0.403s] running install_egg_info
+[0.403s] Copying ../../../../../build/turtlesim_draw/turtlesim_draw.egg-info to /home/havish/Task-Inductees/install/turtlesim_draw/lib/python3.10/site-packages/turtlesim_draw-0.0.0-py3.10.egg-info
+[0.404s] running install_scripts
+[0.415s] Installing draw_turtle script to /home/havish/Task-Inductees/install/turtlesim_draw/lib/turtlesim_draw
+[0.415s] writing list of installed files to '/home/havish/Task-Inductees/build/turtlesim_draw/install.log'
+[0.426s] Invoked command in '/home/havish/Task-Inductees/task_ws/Task-Inductees/task_ws/src/turtlesim_draw' returned '0': PYTHONPATH=/home/havish/Task-Inductees/build/turtlesim_draw/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/havish/Task-Inductees/install/turtlesim_draw/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../../build/turtlesim_draw build --build-base /home/havish/Task-Inductees/build/turtlesim_draw/build install --record /home/havish/Task-Inductees/build/turtlesim_draw/install.log --single-version-externally-managed install_data
