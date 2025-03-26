@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/turtlesim_draw/turtlesim_draw.egg-info
+writing ../../build/turtlesim_draw/turtlesim_draw.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlesim_draw/turtlesim_draw.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlesim_draw/turtlesim_draw.egg-info/entry_points.txt
+writing requirements to ../../build/turtlesim_draw/turtlesim_draw.egg-info/requires.txt
+writing top-level names to ../../build/turtlesim_draw/turtlesim_draw.egg-info/top_level.txt
+writing manifest file '../../build/turtlesim_draw/turtlesim_draw.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtlesim_draw/turtlesim_draw.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlesim_draw/turtlesim_draw.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/nambiar/task_ws/build/turtlesim_draw/build
+creating /home/nambiar/task_ws/build/turtlesim_draw/build/lib
+creating /home/nambiar/task_ws/build/turtlesim_draw/build/lib/turtlesim_draw
+copying turtlesim_draw/__init__.py -> /home/nambiar/task_ws/build/turtlesim_draw/build/lib/turtlesim_draw
+running install
+running install_lib
+creating /home/nambiar/task_ws/install/turtlesim_draw/lib/python3.10/site-packages/turtlesim_draw
+copying /home/nambiar/task_ws/build/turtlesim_draw/build/lib/turtlesim_draw/__init__.py -> /home/nambiar/task_ws/install/turtlesim_draw/lib/python3.10/site-packages/turtlesim_draw
+byte-compiling /home/nambiar/task_ws/install/turtlesim_draw/lib/python3.10/site-packages/turtlesim_draw/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/nambiar/task_ws/install/turtlesim_draw/share/ament_index
+creating /home/nambiar/task_ws/install/turtlesim_draw/share/ament_index/resource_index
+creating /home/nambiar/task_ws/install/turtlesim_draw/share/ament_index/resource_index/packages
+copying resource/turtlesim_draw -> /home/nambiar/task_ws/install/turtlesim_draw/share/ament_index/resource_index/packages
+copying package.xml -> /home/nambiar/task_ws/install/turtlesim_draw/share/turtlesim_draw
+running install_egg_info
+Copying ../../build/turtlesim_draw/turtlesim_draw.egg-info to /home/nambiar/task_ws/install/turtlesim_draw/lib/python3.10/site-packages/turtlesim_draw-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/nambiar/task_ws/build/turtlesim_draw/install.log'

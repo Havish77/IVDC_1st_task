@@ -1,0 +1,24 @@
+[0.526s] Invoking command in '/home/nambiar/task_ws/src/turtlesim_draw': PYTHONPATH=/home/nambiar/task_ws/build/turtlesim_draw/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nambiar/task_ws/install/turtlesim_draw/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_draw build --build-base /home/nambiar/task_ws/build/turtlesim_draw/build install --record /home/nambiar/task_ws/build/turtlesim_draw/install.log --single-version-externally-managed install_data
+[0.720s] running egg_info
+[0.720s] writing ../../build/turtlesim_draw/turtlesim_draw.egg-info/PKG-INFO
+[0.720s] writing dependency_links to ../../build/turtlesim_draw/turtlesim_draw.egg-info/dependency_links.txt
+[0.720s] writing entry points to ../../build/turtlesim_draw/turtlesim_draw.egg-info/entry_points.txt
+[0.721s] writing requirements to ../../build/turtlesim_draw/turtlesim_draw.egg-info/requires.txt
+[0.721s] writing top-level names to ../../build/turtlesim_draw/turtlesim_draw.egg-info/top_level.txt
+[0.722s] reading manifest file '../../build/turtlesim_draw/turtlesim_draw.egg-info/SOURCES.txt'
+[0.723s] writing manifest file '../../build/turtlesim_draw/turtlesim_draw.egg-info/SOURCES.txt'
+[0.723s] running build
+[0.723s] running build_py
+[0.723s] copying turtlesim_draw/turtlesim.py -> /home/nambiar/task_ws/build/turtlesim_draw/build/lib/turtlesim_draw
+[0.723s] running install
+[0.723s] running install_lib
+[0.724s] copying /home/nambiar/task_ws/build/turtlesim_draw/build/lib/turtlesim_draw/turtlesim.py -> /home/nambiar/task_ws/install/turtlesim_draw/lib/python3.10/site-packages/turtlesim_draw
+[0.724s] byte-compiling /home/nambiar/task_ws/install/turtlesim_draw/lib/python3.10/site-packages/turtlesim_draw/turtlesim.py to turtlesim.cpython-310.pyc
+[0.725s] running install_data
+[0.725s] running install_egg_info
+[0.726s] removing '/home/nambiar/task_ws/install/turtlesim_draw/lib/python3.10/site-packages/turtlesim_draw-0.0.0-py3.10.egg-info' (and everything under it)
+[0.727s] Copying ../../build/turtlesim_draw/turtlesim_draw.egg-info to /home/nambiar/task_ws/install/turtlesim_draw/lib/python3.10/site-packages/turtlesim_draw-0.0.0-py3.10.egg-info
+[0.727s] running install_scripts
+[0.742s] Installing turtlesim_draw script to /home/nambiar/task_ws/install/turtlesim_draw/lib/turtlesim_draw
+[0.742s] writing list of installed files to '/home/nambiar/task_ws/build/turtlesim_draw/install.log'
+[0.759s] Invoked command in '/home/nambiar/task_ws/src/turtlesim_draw' returned '0': PYTHONPATH=/home/nambiar/task_ws/build/turtlesim_draw/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nambiar/task_ws/install/turtlesim_draw/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_draw build --build-base /home/nambiar/task_ws/build/turtlesim_draw/build install --record /home/nambiar/task_ws/build/turtlesim_draw/install.log --single-version-externally-managed install_data
