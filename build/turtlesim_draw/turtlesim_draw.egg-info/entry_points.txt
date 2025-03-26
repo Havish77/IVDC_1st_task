@@ -1,0 +1,3 @@
+[console_scripts]
+draw_turtle = turtlesim_draw.draw_turtle:main
+
